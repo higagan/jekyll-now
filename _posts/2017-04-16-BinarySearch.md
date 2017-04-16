@@ -2,6 +2,7 @@
 layout: post
 title:  Binary Search 
 published: true
+category: Algorithm
 ---
 Given a sorted array , we need to find a element in this array. One way is to do linear search i.e 
 compare each element with the number to be found. But this takes lots of time and complexity is O(n).
