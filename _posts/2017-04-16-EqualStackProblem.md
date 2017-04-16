@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Print binary numbers
+title: Equal Stack Problem
 published: true
 ---
 Problem:
