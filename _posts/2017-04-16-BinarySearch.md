@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Print binary numbers
+title:  Binary Search 
 published: true
 ---
 Given a sorted array , we need to find a element in this array. One way is to do linear search i.e 
