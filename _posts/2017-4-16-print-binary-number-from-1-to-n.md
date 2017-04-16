@@ -2,6 +2,7 @@
 layout: post
 title: Print binary numbers
 published: true
+category: Algorithm
 ---
 This is an interesting way to print binary numbers. This is using queues. 
 
