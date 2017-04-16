@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+
+I am a Full Stack developer. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+This blog is all about what I learn on dayly basis and sharing it to the world.
+If you want me to publish any article , feel free to mail me.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gagan.ping@gmail.com](mailto:gagan.ping@gmail.com)
