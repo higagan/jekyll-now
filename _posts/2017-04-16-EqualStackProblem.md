@@ -4,7 +4,7 @@ title: Equal Stack Problem
 published: true
 category: Algorithm
 ---
-Balanced brackets is one of the popular problem solved maily using stack. Read about the problem here: https://www.hackerrank.com/challenges/equal-stacks
+Equal Stack is one of the popular problem solved maily using stack. Read about the problem here: https://www.hackerrank.com/challenges/equal-stacks
 
 Here is the implementation using JAVA stack class:
 
