@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title: Print binary numbers
 published: true
 ---
-
 Given a sorted array , we need to find a element in this array. One way is to do linear search i.e 
 compare each element with the number to be found. But this takes lots of time and complexity is O(n).
 A better approach is by using Binary search. Here, we basically do these steps:
