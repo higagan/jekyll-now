@@ -1,11 +1,4 @@
----
-published: false
----
-## A New Post
----
-published: true
----
-## A New Post
+
 ---
 layout: post
 title: Print binary numbers
