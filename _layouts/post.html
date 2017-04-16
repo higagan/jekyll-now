@@ -12,6 +12,6 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
+  {% include share-buttons.html url=page.url title=page.title %}
   {% include disqus.html %}
 </article>
