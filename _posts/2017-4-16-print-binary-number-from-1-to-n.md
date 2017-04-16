@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Binary Search in C++
+title: Print binary numbers
 ---
 ```java
 import java.util.*;
