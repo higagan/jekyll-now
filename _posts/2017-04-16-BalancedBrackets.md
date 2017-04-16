@@ -7,6 +7,7 @@ category: Algorithm
 
 Balanced brackets is one of the popular problem. 
 Read about the problem here: https://www.hackerrank.com/challenges/balanced-brackets
+
 One of the best ways is to solve it using Stacks. Below is my solution using C++ STL:
 
 ``` c++
