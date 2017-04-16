@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Print binary numbers
+published: true
 ---
+This is an interesting way to print binary numbers 
 ```java
 import java.util.*;
 
