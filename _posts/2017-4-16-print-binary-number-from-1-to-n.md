@@ -3,8 +3,10 @@ layout: post
 title: Print binary numbers
 published: true
 ---
-This is an interesting way to print binary numbers 
+This is an interesting way to print binary numbers. This is using queues. 
+
 ```java
+
 import java.util.*;
 
 public class Binary {
@@ -19,9 +21,9 @@ public class Binary {
          s1=queue.remove();
          System.out.println(s1);
          s2=s1;
-   queue.add(s1.concat("0"));
-          queue.add(s2.concat("1"));
-          n--;
+   		 queue.add(s1.concat("0"));
+         queue.add(s2.concat("1"));
+         n--;
         }
      }
 }
