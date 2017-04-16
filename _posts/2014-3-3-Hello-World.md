@@ -11,7 +11,7 @@ A better approach is by using Binary search. Here, we basically do these steps:
 3. similarly , if x is less than mid element , we search only left side.
 So, we can understand that each time we are eliminating half of our elements from being compared. Hence , performance
 gets improved and time complexity is only O(logn).
-  
+  ```c++
 #include<iostream>
 using namespace std;
 int binarySearch(int *arr,int low,int high,int toFind){
@@ -62,3 +62,4 @@ int main(){
  }
  return 0;
 }
+```
