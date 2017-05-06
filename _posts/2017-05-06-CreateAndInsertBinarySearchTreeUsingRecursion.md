@@ -7,7 +7,7 @@ category: Algorithm
 Here, we will learn to insert elements in BST using recursion. 
 
 
-
+```java
 public class MyTree {
 	// class to create current node with its value
 	class TreeNode {
