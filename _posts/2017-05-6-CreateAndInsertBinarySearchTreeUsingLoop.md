@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Create and Insert elemnets Without Recursion in Binary Search Tree
+title:  Create Binary Search Tree and Insert elements Without Recursion
 published: true
 category: Algorithm,Data Structure
 ---
