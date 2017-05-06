@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Create Binary Search Tree and Insert elements using Recursion
+title: Create Binary Search Tree and Insert elements using Recursion
 published: true
 category: Algorithm
 ---
@@ -29,7 +29,7 @@ public class MyTree {
 	MyTree() {
 		root = null;
 	}	// function to call recursive function
-	public void insert(int data) {
+	**public void insert(int data) {
 		
 		root=insert(root,data);
 	}
@@ -47,7 +47,7 @@ public class MyTree {
 				root.right = insert(root.right,data); // if new data is greater than root data, insert to right of tree
 			}
 		return root;
-	}
+	}**
 	public void inorder() {
 		inorder(root);
 	}
