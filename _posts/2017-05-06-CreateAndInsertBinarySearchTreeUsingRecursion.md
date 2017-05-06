@@ -34,7 +34,7 @@ public class MyTree {
 		root=insert(root,data);
 	}
 	// function using recursion to insert a new key in BST
-	> private TreeNode insert(TreeNode root,int data){
+	private TreeNode insert(TreeNode root,int data){
 		if(root==null){ // If the tree is empty, return a new node by assigning newNode to root
 			TreeNode newNode = new TreeNode(data);
 			root=newNode;
