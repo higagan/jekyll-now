@@ -4,8 +4,8 @@ title:  Create Binary Search Tree and Insert elements using Recursion
 published: true
 category: Algorithm
 ---
-Here, we will learn to insert elements in BST using recursion. For iterative approach {{ site.baseurl }}{% post_url 2017-05-6-CreateAndInsertBinarySearchTreeUsingLoop %}
-click here.
+Here, we will learn to insert elements in BST using recursion. For iterative approach [click here].{{ site.baseurl }}{% post_url 2017-05-6-CreateAndInsertBinarySearchTreeUsingLoop %}
+
 
 ``` java
 public class MyTree {
