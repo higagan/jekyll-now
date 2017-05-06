@@ -34,14 +34,14 @@ public class MyTree {
 		root=insert(root,data);
 	}
 	// function using recursion to insert a new key in BST
-	private TreeNode insert(TreeNode root,int data){
+	> private TreeNode insert(TreeNode root,int data){
 		if(root==null){ // If the tree is empty, return a new node by assigning newNode to root
 			TreeNode newNode = new TreeNode(data);
 			root=newNode;
 			return root;
 		}
 		else{
-			if(root.data>data){ // if new data is less than root data, insert to left of tree
+			if(root.datadata){ // if new data is less than root data, insert to left of tree
 				root.left = insert(root.left,data);
 			}else
 				root.right = insert(root.right,data); // if new data is greater than root data, insert to right of tree
