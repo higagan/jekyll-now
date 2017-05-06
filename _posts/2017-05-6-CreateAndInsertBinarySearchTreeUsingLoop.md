@@ -4,7 +4,7 @@ title:  Create Binary Search Tree and Insert elements Without Recursion
 published: true
 category: Algorithm,Data Structure
 ---
-Here, we will learn to insert elemnts in BST using loop.
+Here, we will learn to insert elements in BST using loop.
 
 ```java
 
