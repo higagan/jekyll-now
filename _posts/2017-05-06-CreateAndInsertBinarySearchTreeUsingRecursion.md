@@ -29,12 +29,12 @@ public class MyTree {
 	MyTree() {
 		root = null;
 	}	// function to call recursive function
-	**public void insert(int data) {
+	public void insert(int data) {
 		
 		root=insert(root,data);
 	}
 	// function using recursion to insert a new key in BST
-	private TreeNode insert(TreeNode root,int data){
+	**private TreeNode insert(TreeNode root,int data){**
 		if(root==null){ // If the tree is empty, return a new node by assigning newNode to root
 			TreeNode newNode = new TreeNode(data);
 			root=newNode;
@@ -47,7 +47,7 @@ public class MyTree {
 				root.right = insert(root.right,data); // if new data is greater than root data, insert to right of tree
 			}
 		return root;
-	}**
+	}
 	public void inorder() {
 		inorder(root);
 	}
