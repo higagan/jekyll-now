@@ -4,7 +4,7 @@ title: Find an element and Find root in BST
 published: true
 category: Algorithm
 ---
-
+Implementation to find a element without using any traversal techniques like inoder, postoder or preoder
 ``` java
 public class MyTree {
 	// class to create current node with its value
