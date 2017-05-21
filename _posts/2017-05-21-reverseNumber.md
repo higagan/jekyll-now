@@ -5,10 +5,11 @@ published: true
 category: Algorithm, Recursion
 ---
 
-``` java
+
 Reverse any number using recursion. 
 JAVA implementation:
 
+``` java
 public class reverseNumber {
 	public static int reverse(int n, int rev) {
 		rev = rev * 10;
