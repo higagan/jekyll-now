@@ -5,6 +5,8 @@ published: true
 category: Algorithm, recursion
 ---
 Reevrse all array elements using recursion. JAVA implementation
+
+```java
 import java.util.Arrays;
 
 public class reverseArray {
@@ -28,4 +30,4 @@ public class reverseArray {
 
 }
 
-
+```
