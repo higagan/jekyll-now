@@ -4,8 +4,8 @@ title:  Print pattern using recursion
 published: true
 category: Algorithm
 ---
-print below pattern using recursion:
-16 11 6 1 -4 1 6 11 16 
+print this pattern using recursion:
+16 11 6 1 -4 1 6 11 16 . 
 16 shloud get decremented by 5 and when it reaches negative value it should start increasing. The program should terminate when 16 repeats again.
 
 ``` java 
