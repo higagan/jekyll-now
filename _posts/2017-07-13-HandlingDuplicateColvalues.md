@@ -38,6 +38,7 @@ UPDATE cte SET projectName =projectName +'_'+CAST(idproject AS VARCHAR)
 WHERE projectCount > 1
 ```
 Now , to make sure in future its not repeated add unique constraint to this column
+
 ```sql
 ALTER TABLE project
 ADD UNIQUE (projectName);
