@@ -4,8 +4,6 @@ title:  LDAP Auth in Php
 published: true
 category: php
 ---
-
-
 ```php
 <script>
 function goBack() {
